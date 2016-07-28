@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="Main CSS.css">
+
+<title> Incidents </title>
+
+</head>
+<body bgcolor="#171A21 ">
+
+<div id = "topMenu">
+
+
+<ul>
+	<li>Menu|	<li>
+	<li> <a href ="Dashboard.html" target="_self" >Dashboard </a></li>
+	<li> <a href  ="Incidents.html">Incidents </a></li>
+	<li><a href  = "Logs.html" >Logs</a></li>
+	<li><a href  = "Settings.html" >Setting</a></li>
+	<li><a href  = "Contacts.html" >Contacts</a></li>
+
+
+
+</ul>
+
+<div id ="secondTopMenu">
+<h1> Incidents </h1>
+</div>
+
+</div>
+<div id= "middle">
+<p>test</p> 
+<p>test</p><br>
+<p>test</p>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/qC4j2R_SiYk" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!--
+ 
+<div id = "footer"></div>
+-->
+</body>
+</html> 
+<body bground=" red">
+
+
+</body>
+</html> 
